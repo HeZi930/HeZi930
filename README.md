@@ -1,7 +1,7 @@
 # Hello, I'm Hezi 👋
 
 - 👋 This is @hezi930
-- 👀 I'm interested in computers, anime, and more!
+- 👀 I'm interested in computers, anime, chess, and more!
 - 📫 You can reach me via [email at hezi930@foxmail.com](mailto:hezi930@foxmail.com)
 - 🏫 Currently studying at ***China University of Mining and Technology***
 
