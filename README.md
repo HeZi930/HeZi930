@@ -7,6 +7,4 @@
 
 [hezi.space](https://hezi.space) is my blog. For more details, check out the [ABOUT](https://hezi.space/about/) page.
 
-![Hezi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hezi930&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hezi930&layout=compact&theme=radical)
